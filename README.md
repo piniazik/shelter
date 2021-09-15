@@ -1,2 +1,2 @@
-# shelter
-My project for Rs school
+- 👋 Hi, I’m Aliaksei.
+- 👀 This my project for rs school.
